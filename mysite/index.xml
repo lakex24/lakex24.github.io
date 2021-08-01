@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome - Jing Liu</title>
+    <link>https://lakex24.github.io/</link>
+    <description>Recent content on Welcome - Jing Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Jing Liu 2021</copyright><atom:link href="https://lakex24.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lakex24.github.io/about/</link>
+      <pubDate>Sun, 11 Jul 2021 15:50:44 -0700</pubDate>
+      
+      <guid>https://lakex24.github.io/about/</guid>
+      
+        <description>Hello About!!!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

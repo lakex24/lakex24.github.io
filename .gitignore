@@ -1,1 +1,6 @@
-mysite
+# mysite
+mysite/public
+mysite/resources
+mysite/themes/academia-hugo
+mysite/themes/starter-hugo-academic
+mysite/themes/*.zip

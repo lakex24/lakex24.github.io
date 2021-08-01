@@ -1,0 +1,70 @@
+baseURL = "https://lakex24.github.io/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+Copyright = "© Jing Liu 2021"
+
+title = "I'm Jing Liu"
+theme = "anatole"
+enableEmoji = false
+
+[params]
+author = "Jing Liu"
+description = """Life is a journey full of surprises, challenges and happiness.
+Entrepreneurship, Sports, Computer Graphics are my companions."""
+profilePicture = "images/profiles.jpg"
+contentratio = 0.75
+# mainSections = ["post", "docs"]
+# mainSections = ["post"]
+mainSections = ["publication", "post"]
+
+  [[params.socialIcons]]
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/jing-liu-3ba94b21/"
+
+  [[params.socialIcons]]
+  icon = "fas fa-envelope"
+  title = "e-mail"
+  url = "mailto:lakex24@gmail.com"
+
+  [[params.socialIcons]]
+  icon = "fas fa-graduation-cap"
+  title = "G-scholar"
+  url = "https://scholar.google.co.uk/citations?user=fv8F6CEAAAAJ&hl"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  identifier = "home"
+  weight = 100
+
+  [[menu.main]]
+  name = "Projects"
+  url = "/publication/"
+  weight = 200
+  identifier = "publication"
+
+  [[menu.main]]
+  name = "Posts"
+  url = "/post/"
+  weight = 200
+  identifier = "posts2222"
+
+  [[menu.main]]
+  name = "Samples"
+  url = "/samples/"
+  weight = 200
+  identifier = "samples"
+
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 300
+  identifier = "contact"
+
+  [[menu.main]]
+  name = "Test"
+  url = "/test/"
+  weight = 300
+  identifier = "test"
