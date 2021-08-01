@@ -11,10 +11,19 @@
     <loc>https://lakex24.github.io/post/</loc>
     <lastmod>2021-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/samples/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+    <loc>https://lakex24.github.io/publication/agile-gan/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/post/redirect/</loc>
+    <loc>https://lakex24.github.io/tags/paper/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lakex24.github.io/publication/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lakex24.github.io/tags/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lakex24.github.io/samples/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/samples/redirect/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/tags/redirecturl/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lakex24.github.io/tags/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/tags/demo/</loc>
@@ -62,17 +68,11 @@
     <loc>https://lakex24.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lakex24.github.io/samples/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lakex24.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/samples/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
@@ -80,7 +80,7 @@
     <loc>https://lakex24.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/post/math-typesetting/</loc>
+    <loc>https://lakex24.github.io/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/samples/math-typesetting/</loc>
@@ -89,35 +89,23 @@
     <loc>https://lakex24.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lakex24.github.io/samples/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/post/image-test/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lakex24.github.io/publication/image-test/</loc>
+    <loc>https://lakex24.github.io/publication/calib-hdr/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/samples/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/publication/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lakex24.github.io/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/about/</loc>
+    <loc>https://lakex24.github.io/test/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lakex24.github.io/home/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lakex24.github.io/post/figure-shortcode/</loc>
-    <lastmod>2016-04-20T21:47:41+00:00</lastmod>
+    <loc>https://lakex24.github.io/post/grandpa-memory/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lakex24.github.io/tags/index/</loc>
   </url>

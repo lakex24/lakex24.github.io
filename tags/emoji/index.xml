@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji on </title>
+    <title>emoji on I&#39;m Jing Liu</title>
     <link>https://lakex24.github.io/tags/emoji/</link>
-    <description>Recent content in emoji on </description>
+    <description>Recent content in emoji on I&#39;m Jing Liu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>© Jing Liu 2021</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lakex24.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Emoji Support</title>
-      <link>https://lakex24.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lakex24.github.io/post/emoji-support/</guid>
-      
-        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-      
-    </item>
-    
     <item>
       <title>Emoji Support</title>
       <link>https://lakex24.github.io/samples/emoji-support/</link>
