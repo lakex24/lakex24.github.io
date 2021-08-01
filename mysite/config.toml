@@ -30,7 +30,7 @@ mainSections = ["publication", "post"]
   [[params.socialIcons]]
   icon = "fas fa-graduation-cap"
   title = "G-scholar"
-  url = "https://scholar.google.co.uk/citations?user=fv8F6CEAAAAJ&hl"
+  url = "https://scholar.google.com/citations?user=fv8F6CEAAAAJ&hl"
 
 [menu]
   [[menu.main]]
