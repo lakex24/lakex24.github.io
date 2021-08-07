@@ -10,10 +10,10 @@
     <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lakex24.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job Referral at TikTok</title>
-      <link>https://lakex24.github.io/post/job-referral-tiktok/</link>
+      <link>https://lakex24.github.io/blogs/job-referral-tiktok/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lakex24.github.io/post/job-referral-tiktok/</guid>
+      <guid>https://lakex24.github.io/blogs/job-referral-tiktok/</guid>
       
         <description>&lt;h2 id=&#34;why-tiktok&#34;&gt;Why TikTok?&lt;/h2&gt;
 &lt;ul&gt;
@@ -28,13 +28,12 @@
     
     <item>
       <title>AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning</title>
-      <link>https://lakex24.github.io/publication/agile-gan/</link>
+      <link>https://lakex24.github.io/projects/agile-gan/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lakex24.github.io/publication/agile-gan/</guid>
+      <guid>https://lakex24.github.io/projects/agile-gan/</guid>
       
-        <description>AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning ACM Transactions on Graphics (Proc. SIGGRAPH), August 2021 Guoxian Song, Linjie Luo, Jing Liu, Wan-Chun Ma, Chunpong Lai, Chuanxia Zheng and Tat-Jen Cham
-sdjldjklfa</description>
+        <description>&lt;p&gt;ACM Transactions on Graphics (Proc. SIGGRAPH), August 2021.&lt;/p&gt;</description>
       
     </item>
     
@@ -132,10 +131,10 @@ This theme has 3 CSS classes made for figure elements:
     
     <item>
       <title>Chromatic Calibration of an HDR Display using 3D Octree Forests</title>
-      <link>https://lakex24.github.io/publication/calib-hdr/</link>
+      <link>https://lakex24.github.io/projects/calib-hdr/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lakex24.github.io/publication/calib-hdr/</guid>
+      <guid>https://lakex24.github.io/projects/calib-hdr/</guid>
       
         <description>Accepted to ICIP 2015, best top 10% Paper!</description>
       
@@ -170,10 +169,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>纪念爷爷﻿</title>
-      <link>https://lakex24.github.io/post/grandpa-memory/</link>
+      <link>https://lakex24.github.io/blogs/grandpa-memory/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lakex24.github.io/post/grandpa-memory/</guid>
+      <guid>https://lakex24.github.io/blogs/grandpa-memory/</guid>
       
         <description>&lt;p&gt;最令人伤感的是&lt;br&gt;
 你特别思念一个人&lt;br&gt;
@@ -181,6 +180,17 @@ Hugo makes use of a variety of open source projects including:
 他的模样，你越努力去回忆，他却越模糊，渐渐离你远去&lt;/p&gt;
 &lt;p&gt;外国人信上帝，中国人拜祖宗。爷爷就是我们家的根。&lt;br&gt;
 现在这个根不在了…&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>24 天摄影日志﻿（上篇）</title>
+      <link>https://lakex24.github.io/blogs/photography-24-part1/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lakex24.github.io/blogs/photography-24-part1/</guid>
+      
+        <description>&lt;p&gt;虽然日常的科研课题经常要和各种“高端相机”打交道，但是从来没有好好地琢磨“摄影”这件事。所导致的结果就是，虽然手上的装备很牛逼，光线很好，景很美，老婆却不让你给她拍照！！这简直是莫大的耻辱啊。。。&lt;/p&gt;</description>
       
     </item>
     
