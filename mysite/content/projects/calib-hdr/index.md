@@ -7,6 +7,5 @@ categories: [
     "publication",
 ]
 thumbnail: "projects/calib-hdr/calib-hdr-thumbnail.png"
-readMore: True
 ---
 Accepted to ICIP 2015,  best top 10% Paper!
