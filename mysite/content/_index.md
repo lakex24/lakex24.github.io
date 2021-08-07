@@ -24,7 +24,16 @@ Don't forget to check the README.md file!
 Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
 -->
 
-The goal for computer graphics is to create the best possible tool for the imagination.
+---
+### Favourite Quotes
+---
+- The goal for computer graphics is to create the best possible tool for the imagination.
+
+- Adults are always asking kids what they want to be when they grow up because they are looking for ideas.
+
+- The future is already here – it's just not evenly distributed.
+
+- what is next?
 
 
 ---

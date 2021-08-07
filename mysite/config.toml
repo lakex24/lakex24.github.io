@@ -15,7 +15,7 @@ profilePicture = "images/profiles.jpg"
 contentratio = 0.75
 # mainSections = ["post", "docs"]
 # mainSections = ["post"]
-mainSections = ["publication", "post"]
+mainSections = ["projects", "blogs"]
 
   [[params.socialIcons]]
   icon = "fab fa-linkedin"
@@ -41,30 +41,30 @@ mainSections = ["publication", "post"]
 
   [[menu.main]]
   name = "Projects"
-  url = "/publication/"
+  url = "/projects/"
   weight = 200
-  identifier = "publication"
+  identifier = "projects1111"
 
   [[menu.main]]
-  name = "Posts"
-  url = "/post/"
+  name = "Blogs"
+  url = "/blogs/"
   weight = 200
   identifier = "posts2222"
 
-  [[menu.main]]
-  name = "Samples"
-  url = "/samples/"
-  weight = 200
-  identifier = "samples"
-
-  [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 300
-  identifier = "contact"
-
-  [[menu.main]]
-  name = "Test"
-  url = "/test/"
-  weight = 300
-  identifier = "test"
+  # [[menu.main]]
+  # name = "Samples"
+  # url = "/samples/"
+  # weight = 200
+  # identifier = "samples"
+  #
+  # [[menu.main]]
+  # name = "Contact"
+  # url = "/contact/"
+  # weight = 300
+  # identifier = "contact"
+  #
+  # [[menu.main]]
+  # name = "Test"
+  # url = "/test/"
+  # weight = 300
+  # identifier = "test"

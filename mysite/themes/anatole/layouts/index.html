@@ -48,6 +48,11 @@
 
       {{ end }}"
     >
+
+      <div class="post-title">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      </div>
+      
       {{ if .Params.thumbnail }}
         <div class="post-thumbnail">
           <a href="{{ .RelPermalink }}">
@@ -56,9 +61,6 @@
         </div>
 
       {{ end }}
-      <div class="post-title">
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      </div>
       <div class="post-content">
         <div class="p_part">
           <p>
