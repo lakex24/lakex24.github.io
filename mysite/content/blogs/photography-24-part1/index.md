@@ -15,7 +15,7 @@ draft: false
 这正巧是我们第一天踏上欧洲大陆，来到苏黎士这个陌生的城市。
 虽然旅途漫长，时差颠倒，但我还是决定计划从今天就开始。
 
-{{< figure src="day01_zurichlake_2.JPG" alt="day-1" caption="{ Day 1 }" >}}
+{{< figure src="day01_zurichlake_2.JPG" alt="day-1" caption="[ Day 1 ]" >}}
 
 看似简单的计划，认真执行起来都是需要动一番脑筋的：
 
@@ -32,7 +32,7 @@ draft: false
 
 湖的一端就是一个老城区，如今这个现代化的大都市也就是围着老城一点一点发展起来的吧。从苏黎士湖发源的几条小河穿梭于城市之间，两岸绿树成荫，水鸟在其中嬉戏，人们也在清澈的湖水里泡着，游泳。河流渐行渐窄，城里的白领上班族居然都端着午饭跑出来坐在河边泡脚聊天！这样的生活真是惬意！
 
-{{< figure src="day02_cloud_4_ps_small.jpg" alt="day-2" caption="{ Day 2 }" >}}
+{{< figure src="day02_cloud_4_ps_small.jpg" alt="day-2" caption="[ Day 2 ]" >}}
 
 关于照片：
 
@@ -49,7 +49,7 @@ draft: false
 你说房价贵吧，你住小点儿；油价贵吧，就少出远门；这生活基本品贵吧，代表的是一种全方位的贵，就是不想让你在这个城市混的感觉。。。
 于是乎，这张“帮老婆涂指甲油”的照片诞生啦！
 
-{{< figure src="day03_portrait_2_ps_small.jpg" alt="day-3" caption="{ Day 3 }" >}}
+{{< figure src="day03_portrait_2_ps_small.jpg" alt="day-3" caption="[ Day 3 ]" >}}
 
 为了马上就要开始的“西班牙蜜月旅”，自然要武装到指甲，还必须是斗牛士配色 =)
 东西贵就自己动手，帮老婆涂指甲油不仅省钱还增进感情，效果还这么赞，哈哈！
@@ -68,7 +68,7 @@ draft: false
 梦想和现实的距离，时而遥不可及，时而近在咫尺，我们很幸运能一起走到今天 。
 中间经历了许多风雨，有空再细细回忆。但有梦想的日子就是幸福的，为梦想干杯！
 
-{{< figure src="day04_night_2_small.jpg" alt="day-4" caption="{ Day 4 }" >}}
+{{< figure src="day04_night_2_small.jpg" alt="day-4" caption="[ Day 4 ]" >}}
 
 格拉纳达是西班牙之旅的第一站。初来乍到，就有太多惊喜，难以一一道来。
 
@@ -90,7 +90,7 @@ P.S: 蓝橙配色，很多大片的电影海报都是这个风格哦！（这里
 
 整面整面的墙壁都是 精美的镂空雕刻 ，如今在这儿享受王宫生活的，竟然是空中飞舞的鸟儿！昔日辉煌的摩尔人一声长叹，颇有点“旧时王谢堂前燕，飞入寻常百姓家”的感觉。
 
-{{< figure src="day05_birds.jpg" alt="day-5" caption="{ Day 5 }" >}}
+{{< figure src="day05_birds.jpg" alt="day-5" caption="[ Day 5 ]" >}}
 
 这镂空的岩壁正是鸟儿们安家的好地方，不过拍鸟可真是体力活
 1. 鸟飞起来，来无影，去无踪，等了半天才拍到这几只
@@ -109,7 +109,7 @@ P.S: 蓝橙配色，很多大片的电影海报都是这个风格哦！（这里
 虽然在 格拉纳达 呆了仅仅两天，然而今晨离开这里前往 科尔多瓦 时却已有些不舍之情
 不过没有关系，每一站都有绝美的风景，在 科尔多瓦 迎接我们的是：炸小鱼！
 
-{{< figure src="day06_food_1_small.jpg" alt="day-6" caption="{ Day 6 }" >}}
+{{< figure src="day06_food_1_small.jpg" alt="day-6" caption="[ Day 6 ]" >}}
 
 炎炎夏日，走进这家小店扑面而来一股清凉之风。绿油油的植物爬满扶梯，白白的墙壁上点缀着艳丽的小花盆。之前在林达的《西班牙旅游笔记》中就读到过西班牙南部最出名的炸小鱼，当时看的就直流口水。今天点菜的时候看到，毫不犹豫地就来了一个大拼盘！
 
@@ -130,7 +130,7 @@ P.S: 蓝橙配色，很多大片的电影海报都是这个风格哦！（这里
 
 西班牙广场旁边就是一个特别大的公园，人与自然和谐共处的 一幕处处可见。
 
-{{< figure src="day07_pigeon_ps.jpg" alt="day-7" caption="{ Day 7 }" width="60%" >}}
+{{< figure src="day07_pigeon_ps.jpg" alt="day-7" caption="[ Day 7 ]" width="60%" >}}
 
 照片中的小朋友胖嘟嘟的，跟公园里的鸽子一样可爱。他看到鸽子非常兴奋，一直跟着鸽群跑，扑向鸽子；他的奶奶总在身后追着，想让他安静一会儿，但这怎么可能呢？
 没想到他还真就用肉肉的小手抓住了一只鸽子... 可见这里的鸽子有多不警惕！
@@ -145,7 +145,7 @@ P.S: 蓝橙配色，很多大片的电影海报都是这个风格哦！（这里
 更多相机技术原理的解释，请看这里。
    
 ### Day 8
-{{< figure src="day08_building_1_ps_small.jpg" alt="day-8" caption="{ Day 8 }" width="50%" class="right" >}}
+{{< figure src="day08_building_1_ps_small.jpg" alt="day-8" caption="[ Day 8 ]" width="50%" class="right" >}}
 
 离开了最能代表西班牙传统特色的南部，我们来到 巴塞罗那 这个现代化的大都市。
 
